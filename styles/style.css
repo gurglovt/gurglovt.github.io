@@ -46,7 +46,8 @@ body {
 img {
   display: block;
   margin: 0 auto;
-  max-width: 60%;
+  height: 400px;
+  max-width: 70%;
 }
 a {
   color: #df9fee;
